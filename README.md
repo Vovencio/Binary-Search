@@ -1,12 +1,20 @@
-<img src="https://c.tenor.com/EYUlar2QIe4AAAAd/tenor.gif" 
-     alt="Search Speed GIF" 
-     style="width: 30%; float: left; margin-right: 20px;">
-
-<h1>Suche2024: Country Search Algorithms in Java</h1>
-<p>
-  Suche2024 is a simple Java project demonstrating binary and linear search algorithms on a dataset of randomly generated "countries." Each country has attributes like name, area, population, and highest point.
-</p>
-
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <!-- Image Cell -->
+    <td style="width: 30%; vertical-align: top;">
+      <img src="https://c.tenor.com/EYUlar2QIe4AAAAd/tenor.gif" 
+           alt="Search Speed GIF" 
+           style="width: 100%; object-fit: fill;">
+    </td>
+    <!-- Text Cell -->
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h1>Suche2024: Country Search Algorithms in Java</h1>
+      <p>
+        Suche2024 is a simple Java project demonstrating binary and linear search algorithms on a dataset of randomly generated "countries." Each country has attributes like name, area, population, and highest point.
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 ## Features
