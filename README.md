@@ -8,9 +8,9 @@
     </td>
     <!-- Text Cell -->
     <td style="vertical-align: top; padding-left: 20px;">
-      <h1>Suche2024: Country Search Algorithms in Java</h1>
+      <h1>Country Search Algorithms in Java</h1>
       <p>
-        Suche2024 is a simple Java project demonstrating binary and linear search algorithms on a dataset of randomly generated "countries." Each country has attributes like name, area, population, and highest point.
+        This is a simple Java project demonstrating binary and linear search algorithms on a dataset of randomly generated "countries." Each country has attributes like name, area, population, and highest point.
       </p>
     </td>
   </tr>
