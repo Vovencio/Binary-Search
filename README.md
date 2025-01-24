@@ -38,3 +38,8 @@ public static void main(String[] args) {
     b.test();
     l.test();
 }
+```
+
+<div align="center">
+  <img src="https://c.tenor.com/EYUlar2QIe4AAAAd/tenor.gif" alt="Search Speed GIF" width="400">
+</div>
