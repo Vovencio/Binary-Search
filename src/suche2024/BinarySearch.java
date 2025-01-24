@@ -25,8 +25,8 @@ public class BinarySearch {
     }
 
     // Constructor
-    public BinarySearch() {
-        countries = new Country[20000];
+    public BinarySearch(int amount) {
+        countries = new Country[amount];
 
         for (int i = 0; i < countries.length; i++){
             countries[i] = new Country(Country.genName(i), i*2, i, (int) (Math.sin(i)*i));
@@ -73,22 +73,6 @@ public class BinarySearch {
 
         System.err.printf("Did not find a country with the population %d \n", searchedPopulation);
         return null;
-    }
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // Testing:
-        BinarySearch s = new BinarySearch();
-
-        s.test();
-
-        // System.out.println(s.search(1999));
-        //s.sortPopulation();
-        //System.out.println(Arrays.toString(s.countries));
-
-
     }
 
     void test() {

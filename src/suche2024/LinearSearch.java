@@ -13,8 +13,8 @@ public class LinearSearch {
     private final Country[] countries;
 
     // Constructor
-    public LinearSearch() {
-        countries = new Country[20000];
+    public LinearSearch(int amount) {
+        countries = new Country[amount];
 
         for (int i = 0; i < countries.length; i++){
             countries[i] = new Country(Country.genName(i), i*2, i, (int) (Math.sin(i)*i));
@@ -106,22 +106,5 @@ public class LinearSearch {
         }
 
         return result.toString();
-    }
-
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // Testing:
-        LinearSearch s = new LinearSearch();
-
-        s.test();
-
-        // System.out.println(s.search(1999));
-        //s.sortPopulation();
-        //System.out.println(Arrays.toString(s.countries));
-
-
     }
 }
