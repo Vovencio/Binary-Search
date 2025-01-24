@@ -3,7 +3,7 @@
 Suche2024 is a simple Java project demonstrating binary and linear search algorithms on a dataset of randomly generated "countries." Each country has attributes like name, area, population, and highest point.
 
 <div align="center">
-  <img src="https://c.tenor.com/EYUlar2QIe4AAAAd/tenor.gif" alt="Search Speed GIF" width="10%">
+  <img src="https://c.tenor.com/EYUlar2QIe4AAAAd/tenor.gif" alt="Search Speed GIF" width="50%" height="10%">
 </div>
 
 ## Features
