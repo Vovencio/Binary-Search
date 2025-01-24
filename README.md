@@ -5,7 +5,7 @@ Suche2024 is a simple Java project demonstrating binary and linear search algori
 <div align="center">
   <img src="https://c.tenor.com/EYUlar2QIe4AAAAd/tenor.gif" 
      alt="Search Speed GIF" 
-     style="width: 100%; height: 50%; object-fit: fill;">
+     style="width: 100%; height: 10%; object-fit: fill;">
 </div>
 
 ## Features
