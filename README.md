@@ -1,12 +1,18 @@
-# Suche2024: Country Search Algorithms in Java
-
-Suche2024 is a simple Java project demonstrating binary and linear search algorithms on a dataset of randomly generated "countries." Each country has attributes like name, area, population, and highest point.
-
-<div align="center">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <!-- Image on the left -->
   <img src="https://c.tenor.com/EYUlar2QIe4AAAAd/tenor.gif" 
-     alt="Search Speed GIF" 
-     style="width: 30%; object-fit: fill;">
+       alt="Search Speed GIF" 
+       style="width: 30%; object-fit: fill;">
+
+  <!-- Text on the right -->
+  <div>
+    <h1>Suche2024: Country Search Algorithms in Java</h1>
+    <p>
+      Suche2024 is a simple Java project demonstrating binary and linear search algorithms on a dataset of randomly generated "countries." Each country has attributes like name, area, population, and highest point.
+    </p>
+  </div>
 </div>
+
 
 ## Features
 
